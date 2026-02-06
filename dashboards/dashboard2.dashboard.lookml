@@ -1,4 +1,4 @@
-- dashboard: dashboard2
+- dashboard: dashboardB
   title: SIS History IG - Consultant Attribute (CAMA)
   layout: newspaper
   preferred_viewer: dashboards-next

@@ -1,4 +1,4 @@
-- dashboard: dashboard1
+- dashboard: dashboardA
   title: SIS History IG - Commission Account (COAC)
   layout: newspaper
   preferred_viewer: dashboards-next
