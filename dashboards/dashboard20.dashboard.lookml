@@ -1,4 +1,4 @@
-- dashboard: dashboard20
+- dashboard: dashboardT
   title: Division Offices Terminated Managers
   layout: newspaper
   preferred_viewer: dashboards-next

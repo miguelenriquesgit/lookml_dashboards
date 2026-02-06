@@ -1,4 +1,4 @@
-- dashboard: dashboard19
+- dashboard: dashboardS
   title: Batch Exception Report
   layout: newspaper
   preferred_viewer: dashboards-next

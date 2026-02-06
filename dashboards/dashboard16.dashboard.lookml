@@ -1,4 +1,4 @@
-- dashboard: dashboard16
+- dashboard: dashboardP
   title: All Advisors Report
   layout: newspaper
   preferred_viewer: dashboards-next

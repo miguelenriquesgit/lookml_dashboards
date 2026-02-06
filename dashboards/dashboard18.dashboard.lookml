@@ -1,4 +1,4 @@
-- dashboard: dashboard18
+- dashboard: dashboardR
   title: Assistants Invalid Region Office
   layout: newspaper
   preferred_viewer: dashboards-next

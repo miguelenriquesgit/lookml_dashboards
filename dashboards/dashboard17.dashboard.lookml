@@ -1,4 +1,4 @@
-- dashboard: dashboard17
+- dashboard: dashboardQ
   title: Assistant No LAN ID
   layout: newspaper
   preferred_viewer: dashboards-next

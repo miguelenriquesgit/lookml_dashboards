@@ -1,4 +1,4 @@
-- dashboard: dashboard24
+- dashboard: dashboardX
   title: PLOC Record No End Date Region
   layout: newspaper
   preferred_viewer: dashboards-next

@@ -1,4 +1,4 @@
-- dashboard: dashboard25
+- dashboard: dashboardY
   title: PWM Report
   layout: newspaper
   preferred_viewer: dashboards-next

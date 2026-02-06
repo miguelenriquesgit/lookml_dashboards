@@ -1,4 +1,4 @@
-- dashboard: dashboard3
+- dashboard: dashboardC
   title: Active Advisor Duplicate ETF
   layout: newspaper
   preferred_viewer: dashboards-next

@@ -1,4 +1,4 @@
-- dashboard: dashboard21
+- dashboard: dashboardU
   title: Education Training without Completion Date
   layout: newspaper
   preferred_viewer: dashboards-next

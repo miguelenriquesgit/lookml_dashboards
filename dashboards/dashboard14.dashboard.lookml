@@ -1,4 +1,4 @@
-- dashboard: dashboard14
+- dashboard: dashboardN
   title: Advisor Detail Scorecard Report
   layout: newspaper
   preferred_viewer: dashboards-next

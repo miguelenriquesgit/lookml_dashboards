@@ -1,4 +1,4 @@
-- dashboard: dashboard13
+- dashboard: dashboardM
   title: Active Advisor Terminated Designated Reviewer
   layout: newspaper
   preferred_viewer: dashboards-next

@@ -1,4 +1,4 @@
-- dashboard: dashboard7
+- dashboard: dashboardG
   title: Active Advisor Mobile Phone Not Primary
   layout: newspaper
   preferred_viewer: dashboards-next
