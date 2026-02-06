@@ -2,7 +2,8 @@ connection: "thelook"
 
 # include all the views
 include: "/views/**/*.view.lkml"
-include: "/dashboards/**/*.dashboard"
+include: "/dashboardsAZ/**/*.dashboard"
+
 
 datagroup: mtr_miguel_lookmldashboards_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
