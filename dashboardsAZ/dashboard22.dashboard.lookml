@@ -1,5 +1,5 @@
-- dashboard: dashboard10
-  title: Active Advisor No Designated Reviewer
+- dashboard: dashboardV
+  title: PLOC Invalid Addresses
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

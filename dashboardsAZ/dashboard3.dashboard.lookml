@@ -1,5 +1,5 @@
-- dashboard: dashboard7
-  title: Active Advisor Mobile Phone Not Primary
+- dashboard: dashboardC
+  title: Active Advisor Duplicate ETF
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

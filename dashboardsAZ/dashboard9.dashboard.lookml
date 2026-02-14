@@ -1,5 +1,5 @@
-- dashboard: dashboard4
-  title: Active Advisor Duplicated License
+- dashboard: dashboardI
+  title: Active Advisor Multiple NRD Locations Summary
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

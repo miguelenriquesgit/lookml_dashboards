@@ -1,5 +1,5 @@
-- dashboard: dashboard9
-  title: Active Advisor Multiple NRD Locations Summary
+- dashboard: dashboardM
+  title: Active Advisor Terminated Designated Reviewer
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

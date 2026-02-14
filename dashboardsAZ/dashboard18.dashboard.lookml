@@ -1,5 +1,5 @@
-- dashboard: dashboard19
-  title: Batch Exception Report
+- dashboard: dashboardR
+  title: Assistants Invalid Region Office
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

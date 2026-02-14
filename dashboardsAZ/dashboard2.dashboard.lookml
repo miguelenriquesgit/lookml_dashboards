@@ -1,5 +1,5 @@
-- dashboard: dashboard1
-  title: SIS History IG - Commission Account (COAC)
+- dashboard: dashboardB
+  title: SIS History IG - Consultant Attribute (CAMA)
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

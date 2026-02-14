@@ -1,5 +1,5 @@
-- dashboard: dashboard26
-  title: Referral Source Report
+- dashboard: dashboardO
+  title: Advisor-Associate Relationship Report
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

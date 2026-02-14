@@ -1,5 +1,5 @@
-- dashboard: dashboard13
-  title: Active Advisor Terminated Designated Reviewer
+- dashboard: dashboardU
+  title: Education Training without Completion Date
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

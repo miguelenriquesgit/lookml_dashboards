@@ -1,5 +1,5 @@
-- dashboard: dashboard2
-  title: SIS History IG - Consultant Attribute (CAMA)
+- dashboard: dashboardH
+  title: Active Advisor Multiple NRD Locations Detail
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

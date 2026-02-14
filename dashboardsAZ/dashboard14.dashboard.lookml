@@ -1,5 +1,5 @@
-- dashboard: dashboard6
-  title: Active Advisor Missing NRD Location
+- dashboard: dashboardN
+  title: Advisor Detail Scorecard Report
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

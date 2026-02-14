@@ -1,5 +1,5 @@
-- dashboard: dashboard5
-  title: Active Advisor Income Direction No Incorporation
+- dashboard: dashboardQ
+  title: Assistant No LAN ID
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

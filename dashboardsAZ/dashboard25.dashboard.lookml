@@ -1,5 +1,5 @@
-- dashboard: dashboard22
-  title: PLOC Invalid Addresses
+- dashboard: dashboardY
+  title: PWM Report
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

@@ -1,5 +1,5 @@
-- dashboard: dashboard3
-  title: Active Advisor Duplicate ETF
+- dashboard: dashboardS
+  title: Batch Exception Report
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

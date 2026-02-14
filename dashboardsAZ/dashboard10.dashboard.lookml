@@ -1,5 +1,5 @@
-- dashboard: dashboard14
-  title: Advisor Detail Scorecard Report
+- dashboard: dashboardJ
+  title: Active Advisor No Designated Reviewer
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

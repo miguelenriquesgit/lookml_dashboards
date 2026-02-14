@@ -1,5 +1,5 @@
-- dashboard: dashboard24
-  title: PLOC Record No End Date Region
+- dashboard: dashboardA
+  title: SIS History IG - Commission Account (COAC)
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

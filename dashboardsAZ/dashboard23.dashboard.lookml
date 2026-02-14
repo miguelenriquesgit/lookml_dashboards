@@ -1,5 +1,5 @@
-- dashboard: dashboard25
-  title: PWM Report
+- dashboard: dashboardW
+  title: PLOC Record No End Date Division
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

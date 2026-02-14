@@ -1,5 +1,5 @@
-- dashboard: dashboard17
-  title: Assistant No LAN ID
+- dashboard: dashboardK
+  title: Active Advisor Rep Status
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100

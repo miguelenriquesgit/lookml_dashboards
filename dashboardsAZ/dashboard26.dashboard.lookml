@@ -1,5 +1,5 @@
-- dashboard: dashboard8
-  title: Active Advisor Multiple NRD Locations Detail
+- dashboard: dashboardZ
+  title: Referral Source Report
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100
