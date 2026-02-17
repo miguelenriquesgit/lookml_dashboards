@@ -3,7 +3,7 @@ connection: "thelook"
 # include all the views
 include: "/views/**/*.view.lkml"
 include: "/dashboardsAZ/**/*.dashboard"
-
+###Adding Comment
 
 datagroup: mtr_miguel_lookmldashboards_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
