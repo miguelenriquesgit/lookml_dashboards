@@ -1,5 +1,5 @@
 connection: "thelook"
-#My comment from 16:02
+#My comment from 16:02 --- Version 2
 # include all the views
 include: "/views/**/*.view.lkml"
 include: "/dashboardsAZ/**/*.dashboard"
