@@ -12,6 +12,7 @@ datagroup: mtr_miguel_lookmldashboards_default_datagroup {
 
 persist_with: mtr_miguel_lookmldashboards_default_datagroup
 
-explore: orders {
+include: "/ExpA.lkml"
+include: "/ExpB.lkml"
 
-}
+#explore: orders {}
